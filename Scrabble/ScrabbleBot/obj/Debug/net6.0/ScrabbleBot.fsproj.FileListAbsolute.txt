@@ -1,0 +1,8 @@
+/Users/jacobm/Scrabble/ScrabbleBot/obj/Debug/net6.0/ScrabbleBot.fsproj.AssemblyReference.cache
+/Users/jacobm/Scrabble/ScrabbleBot/obj/Debug/net6.0/ScrabbleBot.AssemblyInfoInputs.cache
+/Users/jacobm/Scrabble/ScrabbleBot/obj/Debug/net6.0/ScrabbleBot.AssemblyInfo.fs
+/Users/jacobm/Scrabble/ScrabbleBot/bin/Debug/net6.0/Adam.deps.json
+/Users/jacobm/Scrabble/ScrabbleBot/bin/Debug/net6.0/Adam.dll
+/Users/jacobm/Scrabble/ScrabbleBot/bin/Debug/net6.0/Adam.pdb
+/Users/jacobm/Scrabble/ScrabbleBot/obj/Debug/net6.0/Adam.dll
+/Users/jacobm/Scrabble/ScrabbleBot/obj/Debug/net6.0/Adam.pdb

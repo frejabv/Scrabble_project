@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8XpVG9DINQ8hf1ywwq8wPZ37rZowQQODtCUfSMzJNAVkZlfgBTm7Ya98kPJdjZOerqsOnMR5p9IRLj1c9iPXg==",
+  "success": true,
+  "projectFilePath": "/Users/jacobm/Scrabble/ScrabbleTemplate/ScrabbleTemplate.fsproj",
+  "expectedPackageFiles": [
+    "/Users/jacobm/.nuget/packages/fparsec/1.1.1/fparsec.1.1.1.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/fsharp.core/6.0.3/fsharp.core.6.0.3.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/fsharp.quotations.evaluator/2.1.0/fsharp.quotations.evaluator.2.1.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/fspickler/5.3.2/fspickler.5.3.2.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/oxyphenbutazone/1.0.11/oxyphenbutazone.1.0.11.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/scrabbleserver/1.0.19/scrabbleserver.1.0.19.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/scrabbleutil/1.0.12/scrabbleutil.1.0.12.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.io/4.3.0/system.io.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.reflection/4.3.0/system.reflection.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.reflection.emit.ilgeneration/4.3.0/system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.reflection.emit.lightweight/4.3.0/system.reflection.emit.lightweight.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.reflection.primitives/4.3.0/system.reflection.primitives.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.text.encoding/4.3.0/system.text.encoding.4.3.0.nupkg.sha512",
+    "/Users/jacobm/.nuget/packages/system.threading.tasks/4.3.0/system.threading.tasks.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
+    },
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
+    },
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ScrabbleTemplate depends on ScrabbleServer (>= 1.0.17) but ScrabbleServer 1.0.17 was not found. An approximate best match of ScrabbleServer 1.0.19 was resolved.",
+      "libraryId": "ScrabbleServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Detected package downgrade: ScrabbleServer from 1.0.20 to 1.0.19. Reference the package directly from the project to select a different version. \n ScrabbleTemplate -> Adam -> ScrabbleServer (>= 1.0.20) \n ScrabbleTemplate -> ScrabbleServer (>= 1.0.17)",
+      "libraryId": "ScrabbleServer",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
