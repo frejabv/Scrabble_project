@@ -1,6 +1,6 @@
 The project is about making a bot that can play Scrabble according to the official rules.
 
-Created based on the template provided by Jesper Bengtson for the course Functional programming.
+Created based on the template provided by Jesper Bengtson for the course Functional programming. Made in collaboration with JacobMoller
 
 Pictures of example games played by the bot: 
 
